@@ -72,6 +72,6 @@ gcloud auth login
 
 gcloud config set project "ID-projeto "
 
-gcloud run deploy --port-8000
+gcloud run deploy --port=8000
 
 '''
